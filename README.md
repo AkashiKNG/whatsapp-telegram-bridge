@@ -99,4 +99,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built by **Matheus Perez** · Automation Specialist · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+Built by **Matheus Perez** · Automation Specialist · [LinkedIn](https://linkedin.com/in/matheusaksprz)
